@@ -17,6 +17,15 @@ export default {
 
 <style scoped>
 
+    input {
+        width: 75%;
+    }
+
+    div {
+        text-align: center;
+        margin: 20px;
+    }
+
 </style>
 
 
